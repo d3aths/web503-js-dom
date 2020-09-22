@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+
+
+    "[SynthWave '84]": {"editor.background": "#050113" },
+    "editor.background": "#050113",
+    "editor.foreground": "#09003f",
+    "sideBar.background": "#02010f",
+    "activityBar.background": "#02010f",
+    "tab.inactiveBackground": "#02010f",
+    "tab.activeBackground": "#0d0a38",
+    "tab.activeForeground": "#3d7ef7",
+    "titleBar.activeBackground": "#010125",
+    "titleBar.inactiveForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#000000",
+    "titleBar.activeForeground": "#8082fc",
+    "scrollbarSlider.background": "#460031",
+    "scrollbarSlider.activeBackground": "#3d7ef7",
+    "menu.background": "#040016",
+    "menu.foreground": "#2257e9",
+    "statusBar.background": "#0e0131",
+
+    },
+
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Abyss",
+    "workbench.iconTheme": "blue-phoenix",
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "synthwave84.brightness": 1,
+    "workbench.colorTheme": "Bluloco Dark Italic",
+}
